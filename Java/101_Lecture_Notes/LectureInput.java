@@ -15,9 +15,7 @@ class LectureInput{
     System.out.println("2. Tamales - $"+TPrice);
     System.out.println("3. Polo con Frijoles - $"+PCFPrice);
     System.out.println("4. Jarritos - $"+JPrice);
-
-
     System.out.println("How much Tacos con Salsa would you like");
-    Scanner sc=new Scanner()
+    
 	}
 }
