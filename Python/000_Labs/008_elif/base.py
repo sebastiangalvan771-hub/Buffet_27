@@ -6,11 +6,11 @@ if op=="+":
     ans=int(x)+int(y)
     print(x+"+"+y+"="+str(ans))
 elif op=="-":
-    ans=int(x)+int(y)
+    ans=int(x)-int(y)
     print(x+"-"+y+"="+str(ans))
 elif op=="*":
-    ans=int(x)+int(y)
+    ans=int(x)*int(y)
     print(x+"*"+y+"="+str(ans))
 elif op=="/":
-    ans=int(x)+int(y)
+    ans=int(x)/int(y)
     print(x+"/"+y+"="+str(ans))
